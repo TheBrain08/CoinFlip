@@ -25,7 +25,7 @@ To use CoinFlip, simply open the `index.html` file in a web browser. Click the "
 
 ## Credits
 
-CoinFlip was created by [Timo Bilharz]. The coin sound is sourced from [pixabay.com] and the coin images are sourced from [source].
+CoinFlip was created by [Timo Bilharz]. The coin sound is sourced from [pixabay.com] and the coin images are made by myself.
 
 ---
 
